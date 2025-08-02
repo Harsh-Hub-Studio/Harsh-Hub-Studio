@@ -14,7 +14,7 @@
 
 ## 🛠 Tech Stack
 
-- **Languages**: JavaScript, Python, C++
+- **Languages**: JavaScript, Python, C++,C ,Java
 - **Frontend**: React.js, Tailwind CSS, HTML, CSS
 - **Backend**: Node.js, Express.js
 - **Databases**: MongoDB, MySQL
@@ -28,6 +28,8 @@
 - Explainable AI techniques (LIME, SHAP, XAI)
 - React Native and mobile app development
 - Backend deployment and scalability
+- Data Science and AIML
+- DSA using Java
 
 
 
@@ -40,7 +42,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/harsh-rathod-a13847318/)
 - 🌐 [Portfolio Website](https://yourportfolio.com) <!-- Replace this with your actual site -->
-- ✉️ Email: harshrathod2609@gmail.com
+- ✉️ Email: harsh5163196@gmail.com
 
 ---
 
@@ -48,7 +50,7 @@
 - I enjoy building animated web experiences
 - I’ve presented projects like **DermiDetectAI** at tech events
 - Always ready to collaborate on innovative ideas and hackathons!
-
+- Also i am interested in health and fitness related field . I am interested in learning new thing about fitness..
 ---
 
 <!-- Optional Snake Contribution Animation -->
